@@ -1,0 +1,28 @@
+{
+  "name": "orm-migrate-keymaker",
+  "version": "0.0.1",
+  "description": "a utility function for building foreign key constraints with node-orm-migrate2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nicholasf/orm-migrate-keymaker"
+  },
+  "keywords": [
+    "orm-migrate",
+    "migrations",
+    "foreign",
+    "keys"
+  ],
+  "author": "nicholasf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasf/orm-migrate-keymaker/issues"
+  },
+  "homepage": "https://github.com/nicholasf/orm-migrate-keymaker",
+  "dependencies": {
+    "async": "^0.8.0"
+  }
+}
